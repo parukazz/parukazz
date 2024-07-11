@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+**I'm Paruk Azziyi (https://github.com/parukazz)**
+
+**I'm human who want become Web Developer especially Front-end Developer**
+
+**Repositori Terbaru:**
+
+* Album Music - Landing Pgae (https://github.com/parukazz/apocalypsefrom-us)
+
 <!--
 **parukazz/parukazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
