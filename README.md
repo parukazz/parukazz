@@ -4,7 +4,7 @@
 
 **I'm human who want become Web Developer especially Front-end Developer**
 
-**Repositori Terbaru:**
+**Newest Repository:**
 
 * Album Music - Landing Pgae (https://github.com/parukazz/apocalypsefrom-us)
 
