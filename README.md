@@ -6,7 +6,7 @@
 
 **Newest Repository:**
 
-* Dental Care - Landing Pgae (https://github.com/parukazz/uedashika)
+* Dental Care - Landing Page (https://github.com/parukazz/uedashika)
 
 <!--
 **parukazz/parukazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
